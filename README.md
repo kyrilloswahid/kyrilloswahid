@@ -1,6 +1,6 @@
 # 👋🏽 Hey there!
 
-I’m a **Computer and Systems Engineering Student** passionate about **DevOps**, **Cloud Computing**.
+I’m a **Computer and Systems Engineering Student** passionate about **DevOps** and **Cloud Computing**.
 
 ## 🚀 About Me
 - 🎓 Currently pursuing my degree in **Computer and Systems Engineering**.
@@ -36,10 +36,9 @@ I’m always looking to connect with like-minded individuals and share knowledge
 
 - 📧 Email: kyrilloswahid@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/kyrilloswahid/
-- 🐦 Twitter/X: @kyrilloswahid
+- 🐦 Twitter/X: [@kyrilloswahid](https://x.com/kyrilloswahid)
 - 🌟 Portfolio: 
 
 ---
 
-**“The best way to predict the future is to create it.”** – Peter Drucker  
-Let’s create something awesome together!
+**“Motivation is what gets you started. Habit is what keeps you going.”**
