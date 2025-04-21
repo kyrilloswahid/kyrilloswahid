@@ -11,7 +11,7 @@ I’m a **Computer and Systems Engineering Student** passionate about **DevOps**
 ## 🎯 Current Focus
 I am working on my graduation project, **TrueLens**, which aims to combat the growing issue of **fake AI-generated content**. TrueLens leverages advanced algorithms and technologies to verify the authenticity of AI-generated media (Audios, Images, Videos, Text and Codes) ensuring trust in the digital landscape.
 
-⭐ Stay tuned for updates and contributions to this project!
+⭐ Stay tuned for updates and contributions to this project once it goes public!
 
 ## 📈 Skills & Technologies
 Here’s a snapshot of what I bring to the table:
