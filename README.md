@@ -1,35 +1,35 @@
 <p align="center">
-  <svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://w3.org">
+  <svg width="650" height="120" viewBox="0 0 650 120" xmlns="http://w3.org">
     <style>
       .smoke-text {
-        font: bold 45px 'Segoe UI', sans-serif;
+        font: bold 40px 'Segoe UI', -apple-system, sans-serif;
         fill: #ffffff;
-        letter-spacing: 5px;
+        letter-spacing: 4px;
       }
       .smoke-blur {
-        font: bold 45px 'Segoe UI', sans-serif;
+        font: bold 40px 'Segoe UI', -apple-system, sans-serif;
         fill: none;
         stroke: #ffffff;
-        stroke-width: 2;
-        letter-spacing: 5px;
+        stroke-width: 2.5;
+        letter-spacing: 4px;
         opacity: 0.6;
-        filter: url(#blur-effect);
-        animation: drift 5s infinite linear;
+        filter: url(#smoke-effect);
+        animation: smokeDrift 6s infinite ease-in-out;
       }
-      @keyframes drift {
-        0% { transform: translate(0, 0); opacity: 0.6; }
-        50% { transform: translate(3px, -3px); opacity: 0.2; filter: blur(6px); }
-        100% { transform: translate(0, 0); opacity: 0.6; }
+      @keyframes smokeDrift {
+        0% { transform: translate(0, 0); opacity: 0.5; }
+        50% { transform: translate(5px, -6px); opacity: 0.15; }
+        100% { transform: translate(0, 0); opacity: 0.5; }
       }
     </style>
     <defs>
-      <filter id="blur-effect">
-        <feGaussianBlur stdDeviation="4" />
+      <filter id="smoke-effect">
+        <feGaussianBlur stdDeviation="6" />
       </filter>
     </defs>
-    <!-- Background blurred smoke layer -->
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="smoke-blur">YOUR NAME</text>
-    <!-- Sharp foreground text -->
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="smoke-text">YOUR NAME</text>
+    <!-- Background smoking blur layer -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="smoke-blur">Kyrillos Wahid</text>
+    <!-- Sharp foreground layer -->
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="smoke-text">Kyrillos Wahid</text>
   </svg>
 </p>
