@@ -2,9 +2,7 @@
 
 <img src="./Intro.svg" alt="Intro Animation" width="100%" />
 
-<h3 style="font-family: 'Playfair Display', serif; font-weight: 700; letter-spacing: 0.5px;">
-  DevSecOps Engineer
-</h3>
+### DevSecOps Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrilloswahid) [![Resume](https://img.shields.io/badge/Resume-View%20CV-red?logo=read-the-docs&logoColor=white)](YOUR_RESUME_LINK_HERE)
 
