@@ -2,7 +2,7 @@
 
 <img src="./Intro.svg" alt="Intro Animation" width="100%" />
 
-### DevSecOps Engineer
+`> role: devsecops_engineer // sec-ops`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyrilloswahid) [![Resume](https://img.shields.io/badge/Resume-View%20CV-red?logo=read-the-docs&logoColor=white)](YOUR_RESUME_LINK_HERE)
 
